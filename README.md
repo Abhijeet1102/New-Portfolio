@@ -25,7 +25,7 @@ This is my personal portfolio website built using **HTML**, **CSS (Bootstrap)**,
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view live](https://your-username.github.io/your-repo-name)
+🔗 [Click here to view live](https://github.com/Abhijeet1102/New-Portfolio.git)
 
 ---
 
@@ -33,7 +33,7 @@ This is my personal portfolio website built using **HTML**, **CSS (Bootstrap)**,
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone (https://github.com/Abhijeet1102/New-Portfolio.git).git
 
 2. Open `index.html` in any browser.
 
