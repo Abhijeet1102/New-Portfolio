@@ -33,7 +33,7 @@ This is my personal portfolio website built using **HTML**, **CSS (Bootstrap)**,
 
 1. Clone the repository:
 
-   git clone (https://github.com/Abhijeet1102/New-Portfolio.git).git
+   git clone (https://github.com/Abhijeet1102/New-Portfolio.git)
 
 2. Open `index.html` in any browser.
 
