@@ -44,4 +44,4 @@ This is my personal portfolio website built using **HTML**, **CSS (Bootstrap)**,
 For any feedback or suggestions:
 
 📧 Email: abhijeetrai920@gmail.com
-🌐 Portfolio: [your-portfolio-link]([https://your-portfolio-link.com](https://abhijeet1102.github.io/New-Portfolio/))  
+🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link.com](https://abhijeet1102.github.io/New-Portfolio/)  
